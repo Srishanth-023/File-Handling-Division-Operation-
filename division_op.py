@@ -7,7 +7,7 @@ def division(dividend, divisor):
         status = "No error"
     except Exception as e:
         result = f"ERROR OCCURED : {e}"
-        status = "Error encountered !"
+        status = "Shit encountered  !"
     finally:
         final = "CODE EXECUTED SUCCESSFULLY"
  
